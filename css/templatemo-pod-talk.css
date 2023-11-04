@@ -1026,7 +1026,7 @@ main {
 
 .site-footer-title,
 .site-footer p {
-  color: var(--white-color);
+  color: #f0f8ff;
 }
 
 .site-footer p strong {
@@ -1034,7 +1034,7 @@ main {
 }
 
 .site-footer p a {
-  color: var(--white-color);
+  color: #f0f8ff;
   border-bottom: 1px solid;
   padding-bottom: 3px;
 }
